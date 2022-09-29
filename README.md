@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-This GitHub profile contains my undergraduate products and fresh Advent of Code solutions.
-- 🔭 I’m currently working on my BSc Computer Science: Cloud Technologies degree.
-- 🌱 I’m currently learning Git. (the irony)
+This GitHub profile contains my undergraduate projects and Advent of Code solutions.
+- 🔭 I’m currently studying in my BSc Computer Science: Cloud Technologies degree.
+- 🌱 I’m currently learning Flask.
 - 💬 Ask me about anything!
 - 📫 You can reach me at: khanh.tm@st.buv.edu.vn
-- ⚡ Fun fact: I am terrified of strange people but will immediately go touch random cats.
+- ⚡ Fun fact: I love playing Legends of Runeterra and reached Masters that one time.
 
 <!--
 **ultinvincible/ultinvincible** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
